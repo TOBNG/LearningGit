@@ -1,1 +1,4 @@
 On that day, tob suddenly thought of that he began to learn git long long ago, however the fact is that after a whole year he got no progress and put himself all in MOYU.
+
+Here we make some change to this file and add another file.
+It seems that tob had already learnt something about remote repo but now he knows nothing about git. (How did I named such a strange name of branch like bcr???)
