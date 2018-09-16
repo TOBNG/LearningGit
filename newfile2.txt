@@ -1,1 +1,40 @@
 so here we add newfile2 to this directory and we will also change the former file to see what will happen.
+after SANFENZHONGREDU I save the result of $ git log to this file and go to MOYU again :)
+
+$ git log
+commit cf65965b53870da2d73a13a60a371e7d21fd1848 (HEAD -> bcr1, origin/bcr1)
+Author: TOBNG <1103736766@qq.com>
+Date:   Sun Sep 16 22:27:44 2018 +0800
+
+    some more changes
+
+commit 1c74d4774040b20738fe68562bdb7a3236bc8c3a
+Author: TOBNG <1103736766@qq.com>
+Date:   Sun Sep 16 22:21:04 2018 +0800
+
+    changed a file
+
+commit b539ab8311ade86a7701415d63165a03a31a0163
+Author: TOBNG <1103736766@qq.com>
+Date:   Sun Sep 16 22:18:04 2018 +0800
+
+    add a file
+
+commit d86eec4a057b28ac3a692a93e7fcafb5eb822e2c
+Author: TOBNG <1103736766@qq.com>
+Date:   Sun Sep 16 22:09:38 2018 +0800
+
+    no message
+
+commit 992e3fad696c5c66f32e5021c053f756821096ad (tag: v2, origin/master, origin/brc2, origin/brc1, master, brc2)
+Author: TOBNG <1103736766@qq.com>
+Date:   Sat Mar 24 15:02:11 2018 +0800
+
+    change2
+
+commit 2d0a6a320ed6cd181ebb48506ac502d2b6c3b87a (tag: v1)
+Author: TOBNG <1103736766@qq.com>
+Date:   Sat Mar 24 14:59:44 2018 +0800
+
+    change1
+(END)
